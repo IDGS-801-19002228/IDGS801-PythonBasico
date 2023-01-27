@@ -9,3 +9,4 @@ except ZeroDivisionError:
     print("Error en el programa")
 finally:
     print("Siempre aparecera")
+    
